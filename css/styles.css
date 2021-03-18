@@ -19,3 +19,17 @@ img {
 img:hover {
     filter: grayscale(0);
 }
+
+ul.card {
+  background-color: transparent;
+  border-color: transparent;
+  text-align: center;
+}
+
+li {
+  list-style-type: none;
+  font-size: large;
+  text-align: center;
+  color: white;
+  text-decoration: underline;
+}
