@@ -12,7 +12,7 @@
 
 ## Description
 
-_The ultimate showdown between cats and dogs using JQuery._
+_The ultimate showdown between cats and dogs to practice DOM manipulation_
 
 ## Setup/Installation Requirements
 
