@@ -28,8 +28,11 @@ ul.card {
 
 li {
   list-style-type: none;
-  font-size: large;
+  font-size: 15pt;
   text-align: center;
   color: white;
-  text-decoration: underline;
+}
+
+li:hover {
+  color: tomato;
 }
